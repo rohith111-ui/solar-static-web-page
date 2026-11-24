@@ -1,0 +1,7 @@
+@keyframes a5lvtwd{0%{transform:translateY(100%)}to{transform:translateY(0)}}
+@keyframes a5lvtwe{0%{opacity:0;transform:scale(0)}to{opacity:1;transform:scale(1)}}
+.a5lvtwf{background-color:#3b3b3b}
+.a5lvtwg{background-color:#22244e}
+.a5lvtwq{animation:.2s ease-out a5lvtwd}
+.a5lvtws{animation:.3s ease-out a5lvtwe}
+.a5lvtwt{animation:.2s ease-out a5lvtwd}
